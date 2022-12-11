@@ -1,0 +1,28 @@
+{
+  "name": "indito",
+  "version": "0.1.0",
+  "description": "Indito is a frontend boilerplate.",
+  "main": "index.js",
+  "scripts": {
+    "build": "parcel build src/index.html",
+    "dev": "parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michael-hamilton/Indito.git"
+  },
+  "author": "Michael Hamilton <hello@miska.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michael-hamilton/Indito/issues"
+  },
+  "homepage": "https://github.com/michael-hamilton/Indito#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.1",
+    "process": "^0.11.10"
+  }
+}
